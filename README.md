@@ -1,2 +1,2 @@
 # a3eon
-Profile Repo
+![Metrics](/github-metrics.svg)
